@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util
+END
+PMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/PMF.java
+END
+Helpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Mdw10Ws104t2/!svn/ver/4/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/Helpers.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/Message.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/Validator.java
+END
+ReceivedOrderDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Mdw10Ws104t2/!svn/ver/4/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/ReceivedOrderDelete.java
+END
+ResponseConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Mdw10Ws104t2/!svn/ver/4/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/ResponseConverter.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/util/Util.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Model.java
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Car.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Engine.java
+END
+Brand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Brand.java
+END
+Fuel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Fuel.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Order.java
+END
+Dealer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Mdw10Ws104t2/!svn/ver/2/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/Dealer.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/src/java/cz/cvut/fit/mi_mdw/entities/User.java
+END

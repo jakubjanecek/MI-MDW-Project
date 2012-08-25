@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib
+END
+jgroups-2.6.13.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jgroups-2.6.13.GA.jar
+END
+apache-mime4j-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/apache-mime4j-0.6.jar
+END
+resteasy-jsapi-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-jsapi-2.1-beta-1.jar
+END
+jyaml-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jyaml-1.3.jar
+END
+async-http-jbossweb-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/async-http-jbossweb-2.1-beta-1.jar
+END
+resteasy-multipart-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-multipart-provider-2.1-beta-1.jar
+END
+jcip-annotations-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jcip-annotations-1.0.jar
+END
+httpclient-4.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/httpclient-4.0.3.jar
+END
+oauth-20100527.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/oauth-20100527.jar
+END
+resteasy-jaxb-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-jaxb-provider-2.1-beta-1.jar
+END
+resteasy-fastinfoset-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-fastinfoset-provider-2.1-beta-1.jar
+END
+mail-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/mail-1.4.jar
+END
+resteasy-jackson-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-jackson-provider-2.1-beta-1.jar
+END
+resteasy-oauth-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-oauth-2.1-beta-1.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/commons-httpclient-3.1.jar
+END
+httpcore-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/httpcore-4.0.1.jar
+END
+FastInfoset-1.2.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/FastInfoset-1.2.7.jar
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jaxb-api-2.1.jar
+END
+jackson-mapper-asl-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jackson-mapper-asl-1.5.3.jar
+END
+resteasy-jettison-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-jettison-provider-2.1-beta-1.jar
+END
+resteasy-atom-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-atom-provider-2.1-beta-1.jar
+END
+jboss-transaction-api-1.0.1.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jboss-transaction-api-1.0.1.GA.jar
+END
+resteasy-cache-core-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-cache-core-2.1-beta-1.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jettison-1.1.jar
+END
+resteasy-yaml-provider-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-yaml-provider-2.1-beta-1.jar
+END
+jackson-core-asl-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jackson-core-asl-1.5.3.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/activation-1.1.jar
+END
+resteasy-guice-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-guice-2.1-beta-1.jar
+END
+resteasy-cdi-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-cdi-2.1-beta-1.jar
+END
+jaxb-impl-2.1.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jaxb-impl-2.1.12.jar
+END
+jaxrs-api-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jaxrs-api-2.1-beta-1.jar
+END
+el-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/el-api-1.0.jar
+END
+jboss-common-core-2.2.14.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jboss-common-core-2.2.14.GA.jar
+END
+resteasy-spring-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-spring-2.1-beta-1.jar
+END
+oauth-provider-20100527.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/oauth-provider-20100527.jar
+END
+async-http-tomcat6-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/async-http-tomcat6-2.1-beta-1.jar
+END
+async-http-servlet-3.0-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/async-http-servlet-3.0-2.1-beta-1.jar
+END
+jackson-jaxrs-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jackson-jaxrs-1.5.3.jar
+END
+resteasy-links-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-links-2.1-beta-1.jar
+END
+stax-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/stax-api-1.0.jar
+END
+jbosscache-core-3.2.5.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jbosscache-core-3.2.5.GA.jar
+END
+jboss-logging-spi-2.0.5.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jboss-logging-spi-2.0.5.GA.jar
+END
+commons-codec-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/commons-codec-1.2.jar
+END
+persistence-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/persistence-api-1.0.jar
+END
+jsr250-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jsr250-api-1.0.jar
+END
+guice-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/guice-2.0.jar
+END
+resteasy-jaxrs-2.1-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/resteasy-jaxrs-2.1-beta-1.jar
+END
+scannotation-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/scannotation-1.0.2.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/commons-logging-1.0.4.jar
+END
+javassist-3.8.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/javassist-3.8.0.GA.jar
+END
+jboss-el-1.0_02.CR4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jboss-el-1.0_02.CR4.jar
+END
+jackson-xc-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/jackson-xc-1.5.3.jar
+END
+sjsxp-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Mdw10Ws104t2/!svn/ver/3/fit-mdw-ws10-104-2/lib/sjsxp-1.0.1.jar
+END

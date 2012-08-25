@@ -1,0 +1,17 @@
+.Dialog {
+    display: none;
+}
+
+.Icon {
+    width: 17px;
+    height: 17px;
+}
+
+#AdminMessages p {
+    display: block;
+    margin: 0;
+    padding: .6em;
+    border: 1px #444 solid;
+    background-color: #fcefa1;
+    font-weight: bold;
+}
